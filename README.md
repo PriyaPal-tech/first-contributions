@@ -5,8 +5,7 @@
 
 
 # First Contributions
-
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+ It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
@@ -127,7 +126,7 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, you'll see that, there are changes.
 
 
 Add those changes to the branch you just created using the `git add` command:
